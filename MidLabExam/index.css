@@ -1,0 +1,54 @@
+.container{
+
+    margin-top: 200px;
+    width: 100%;
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.previous{
+
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    margin-left: 450px;
+
+
+}
+.Next{
+
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    margin-left: 20px;
+
+}
+
+img{
+
+    width: 290px;
+    height: 100px;
+
+
+}
+/* 
+.images img{
+
+    display: none;
+    flex-direction: row;
+}
+
+
+
+.images img.initial-image {
+    display: block;
+} */
